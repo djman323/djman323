@@ -1,6 +1,7 @@
-<div style="background-color: black; color: white;>
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃myself%20Devansh!&fontSize=90&fontColor=ffffff)
 <!-- Profile Header -->
+<div style="background-color: black; color: white;>
 <h1 align="center">🌌 Hey there, 
 <h3 align="center">💻 Passionate Full-Stack Developer from India</h3>
 
