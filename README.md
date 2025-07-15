@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃myself%20Devansh!&fontSize=90&fontColor=ffffff)
 <!-- Profile Header -->
-<h1 align="center">🌌 Hey there, I'm <span style="color:#f9d342;">Devansh</span></h1>
+<h1 align="center">🌌 Hey there, 
 <h3 align="center">💻 Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
