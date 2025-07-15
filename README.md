@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white;>
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃myself%20Devansh!&fontSize=90&fontColor=ffffff)
 <!-- Profile Header -->
 <h1 align="center">🌌 Hey there, 
@@ -65,3 +66,4 @@
 > One of them is **Easefer** – a multi-device file transfer app built with Python, Streamlit & Socket programming.
 
 ---
+</div>
